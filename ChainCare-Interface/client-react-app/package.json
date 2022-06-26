@@ -1,0 +1,120 @@
+{
+  "name": "client-react-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@tsconfig/node12": "^1.0.7",
+    "@types/mocha": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "babel-cli": "^6.9.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-regenerator": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "bake-cli": "^0.1.6",
+    "chai": "^4.2.0",
+    "eslint": "^7.6.0",
+    "eslint-config-standard": "^5.3.1",
+    "eslint-plugin-promise": "^1.1.0",
+    "eslint-plugin-standard": "^1.3.2",
+    "mocha": "^8.2.1",
+    "sass": "^1.37.5",
+    "standard-version": "^9.3.1",
+    "typescript": "^4.0.5",
+    "watchd": "github:mklabs/watchd"
+  },
+  "bake": {
+    "description": "Scaffold a basic ES6 setup",
+    "scripts": {
+      "start": "echo Starting generation of default template",
+      "prestart": "echo prestart",
+      "poststart": "echo poststart",
+      "install": "npm install --loglevel warn --cache-min Infinity",
+      "preinstall": "echo Installing dependencies ...",
+      "postinstall": "npm ls --depth 0"
+    }
+  },
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "4.0.0",
+    "@material-ui/core": "^4.12.1",
+    "@metamask/detect-provider": "^1.2.0",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@trinsic/service-clients": "^1.1.5018",
+    "@walletconnect/web3-provider": "^1.4.1",
+    "antd": "^4.16.6",
+    "aws-sdk": "^2.968.0",
+    "axios": "^0.21.1",
+    "bl": "^5.0.0",
+    "bootstrap": "^5.0.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "emailjs-com": "^3.2.0",
+    "env-paths": "^2.2.1",
+    "eth-crypto": "^2.0.0",
+    "ethers": "^5.4.2",
+    "glob": "^7.1.7",
+    "graceful-fs": "^4.2.8",
+    "ipfs": "^0.56.1",
+    "ipfs-http-client": "^50.1.2",
+    "loaderjs": "^1.0.0",
+    "localbase": "^0.7.5",
+    "make-fetch-happen": "^9.0.4",
+    "random-words": "^1.1.1",
+    "react": "^17.0.2",
+    "react-avatar-edit": "^1.0.0",
+    "react-blockies": "^1.4.1",
+    "react-bootstrap": "^1.6.1",
+    "react-copy-to-clipboard": "^5.0.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-identicons": "^1.2.5",
+    "react-infinite-scroller": "^1.2.4",
+    "react-modal-video": "^1.2.8",
+    "react-qr-code": "^2.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-scroll": "^1.8.3",
+    "react-spring": "^8.x",
+    "react-spring-3d-carousel": "^1.2.1",
+    "react-tooltip": "^4.2.21",
+    "react-transition-group": "^4.4.2",
+    "react-useanimations": "^2.0.6",
+    "styled-components": "^5.3.0",
+    "swiper": "^6.8.1",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.4.0",
+    "web3connect": "^1.0.0-beta.33"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "peerDependencies": {
+    "react-spring": "^8.x"
+  }
+}

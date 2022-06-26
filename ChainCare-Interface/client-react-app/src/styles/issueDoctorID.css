@@ -1,0 +1,112 @@
+
+body{
+  background: #fafafa;
+}
+
+.steps-content {
+  min-height: 200px;
+  margin-top: 16px;
+  padding-top: 80px;
+  text-align: center;
+  background-color: #5ee31d2e;
+  border: 1px dashed #e9e9e9;
+  border-radius: 2px;
+}
+
+.steps-action {
+  margin-top: 24px;
+  
+
+}
+
+.gutter-box {
+  padding: 8px 0;
+  background: #e9e9e9;
+}
+
+/*  
+.btn-primary{
+background-color:#16c79a;
+border-color: #16c79a
+}
+
+.btn-primary:hover{
+  background-color:#16c79a;
+  border-color: #16c79a
+}
+
+.btn-primary:active {
+  background-color:#16c79a;
+  border-color: #16c79a;
+}
+*/
+
+
+.btn, .btn:hover
+{
+background-color: #16c79a; 
+border-color: #16c79a;
+}
+
+
+.btn-check:focus+.btn-primary, .btn-primary:focus{
+  background-color: #16c79a;
+  border-color: #16c79a;
+  box-shadow: 0 0 0 0.25rem #16c79a;
+}
+
+  
+
+h1
+{
+  color:#56615e
+}
+
+/*span:hover{
+  color: #16c79a;
+}*/
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #16c79a;
+}
+
+.ant-tabs-tab-btn:hover{
+  color: #16c79a;
+}
+
+.ant-tabs-ink-bar  {
+  background-color: #16c79a;
+}
+
+
+/*back button*/
+.ant-btn {
+  background-color:#fafafa;
+  border-color: #16c79a;
+
+}
+.ant-btn:hover{
+  background-color: #fafafa;
+  border-color:#e9e9e9;
+}
+
+.ant-btn:active{
+  background-color: #fafafa;
+  border-color: #16c79a;
+}
+
+/*done button*/
+.span1{
+  color: #e9e9e9;
+}
+.span1:hover{
+  color: #e9e9e9;
+}
+
+/*back home button*/
+.span2{
+  color: #56615e;
+}
+.span2:hover{
+  color: #56615e;
+}

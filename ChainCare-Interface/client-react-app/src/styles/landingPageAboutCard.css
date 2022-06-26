@@ -1,0 +1,31 @@
+.about-card-container {
+  width: 380px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: rgba(41, 141, 69, 0.2) 0px 2px 8px 0px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.about-card-icon-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.about-card-icon {
+  font-size: 100px;
+  border: 1px solid gray;
+  border-radius: 26px;
+  padding: 20px;
+}
+
+.about-card-title {
+  text-align: center;
+  font-size: 18px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.about-card-description {
+  font-size: 18px;
+  color: #283f7a;
+}

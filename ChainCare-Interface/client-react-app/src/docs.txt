@@ -1,0 +1,37 @@
+Todos:
+    - Ethereum naming service user.eth instead of 0x23123....
+    - Admin Page
+    - Entity Page
+    - Notification
+    - Interaction with Smart Contract 
+        - Ethers JS
+        - Local Host Blockchain network
+        - Test Nets
+        - Mainnet
+    - Local Fauccet
+        - Manage Transcation Feeds
+        - Could make users account backend and feed them with ethers from owner account 
+    - IPFS
+    - Encryption/Decryption
+        - Key generation
+        - Grant and Revoke access
+    - Transction Log in the UI 
+    - Title to let know this which action page is it (patient)
+    - Trinsic Verification Upgrade
+
+Optionals
+- limits
+- Tokens
+- integrate rather than replace
+- ipfs 
+- Trinsic
+- blockchain 
+- Ethereum
+- public blockchain
+- transcation fees 
+- integration 
+....
+
+
+
+    

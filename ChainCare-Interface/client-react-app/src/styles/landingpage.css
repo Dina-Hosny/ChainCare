@@ -1,0 +1,119 @@
+.main-container {
+  margin: 80px auto;
+  height: 200px;
+  /* background-color: #f9f9f9; */
+  display: flex;
+  text-align: left;
+
+  justify-content: center;
+}
+
+.home-section-text {
+  margin: 20px 80px 0 0;
+  padding: 100px 100px 0 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.home-section-text-title {
+  font-size: 40px;
+  color: rgba(35, 167, 56, 0.8);
+  font-weight: bold;
+}
+
+.home-section-text-subtitle {
+  font-size: 20px;
+}
+
+.about-section-text {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  margin-top: 300px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.about-section-description {
+  text-align: center;
+  font-size: 16px;
+}
+
+.about-section-card-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 30px auto 360px auto;
+}
+
+.main-text {
+  /* padding: 30px; */
+  text-align: center;
+  /* width: 840px; */
+  margin: 70px auto;
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter;
+  font-size: 24px;
+  /* font-size: 24; */
+}
+
+/* start da css for da buttons */
+.lp-btn {
+  border-radius: 37px;
+  padding: 15px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.lp-btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.lp-blue {
+  background-color: #1890ff;
+  box-shadow: 0px 5px 0px 0px #3c93d5;
+}
+
+.lp-blue:hover {
+  background-color: #6fc6ff;
+  color: #fff;
+}
+
+/* CSS */
+.button-37 {
+  background-color: #13aa52;
+  border: 1px solid #13aa52;
+  border-radius: 37px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont,
+    sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  outline: none;
+  outline: 0;
+  padding: 10px 25px;
+  text-align: center;
+  transform: translateY(0);
+  transition: transform 150ms, box-shadow 150ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-37:hover {
+  box-shadow: rgba(0, 0, 0, 0.15) 0 3px 9px 0;
+  transform: translateY(-2px);
+}
+
+@media (min-width: 768px) {
+  .button-37 {
+    padding: 10px 30px;
+  }
+}

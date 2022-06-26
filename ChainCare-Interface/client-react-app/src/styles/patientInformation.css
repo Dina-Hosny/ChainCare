@@ -1,0 +1,50 @@
+.go-back-text {
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.go-back-icon {
+  font-size: 25px;
+}
+
+.record-status-text {
+  margin: 15px auto;
+  font-size: 18px;
+}
+
+.record-info-row {
+  margin: 20px;
+  font-size: 16px;
+}
+
+.record-blockie {
+  text-align: center;
+}
+
+.record-user-name {
+  font-weight: bolder;
+}
+
+.record-user-address {
+  font-size: 16px;
+}
+
+.patient-records-text {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.patient-empty {
+  margin: 50px auto;
+}
+
+.patient-records-search-input {
+  outline: none;
+  width: 100%;
+  border: 1px solid grey;
+  font-size: 0.9rem;
+  /* margin-left: 20px; */
+  padding: 1rem;
+  border-radius: 0.5rem;
+}

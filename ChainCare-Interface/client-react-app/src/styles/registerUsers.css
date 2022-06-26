@@ -1,0 +1,31 @@
+.register-text {
+  text-align: center;
+  padding: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  color: gray;
+}
+
+.system-users-text {
+  font-size: 25px;
+  font-weight: bolder;
+  margin-left: 15px;
+  color: grey;
+}
+
+.users-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.info-icon {
+  padding: 5px;
+  cursor: pointer;
+  color: gray;
+}
+
+body{
+  background-color:white;
+}

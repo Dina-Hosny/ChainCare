@@ -1,0 +1,26 @@
+.patient-create-record-btns-container {
+  margin: 10px;
+  text-align: right;
+}
+
+.patient-create-btn {
+  margin: 5px;
+}
+
+.create-record-btn:hover {
+  background-color: rgb(97, 174, 233);
+}
+
+.create-record-btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+.create-record-btn {
+  background-color: #318af1;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 16px;
+}

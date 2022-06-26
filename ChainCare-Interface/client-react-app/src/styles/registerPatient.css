@@ -1,0 +1,42 @@
+.form-container {
+  padding: 50px;
+  border-radius: 40px;
+  background-color: #e9ecef;
+}
+
+#components-form-demo-register-patient-form .ant-btn {
+  margin-right: 8px;
+}
+.Formm{
+  border-radius: 20px;
+ 
+}
+.FORMIT{
+  position: relative;
+  margin-top: 20px;
+  right: 60px;
+  font-size: 20px;
+  
+}
+
+.INPUTT{
+ position: relative;
+ left: 8px;
+
+ 
+}
+
+.regist-btn
+{
+  color: white;
+
+  margin-top: 30px;
+
+  
+}
+
+.regist-btn:hover{
+  color: white;
+  
+}
+

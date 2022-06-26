@@ -1,0 +1,54 @@
+.action-container {
+  background-color: #fafafa;
+  box-shadow: #e2fad6 5px 5px 5px 5px,
+  #e2fad6 5px 5px 5px 5px;
+  margin: 20px auto;
+  height: 100vh;
+}
+
+.action-items {
+  margin: 30px 10px;
+  font-size: 18px;
+}
+
+/* .action-items button {
+  border: none;
+  outline: none;
+  padding: 0;
+  font-family: inherit;
+  background-color: inherit; 
+   width: inherit; 
+  text-align: left;
+} 
+
+/* .action-items:hover {
+  background-color: #d0cece;
+  border-radius: 10px;
+  height: 50px;
+  cursor: pointer;
+} */
+
+.action-title {
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  font-weight: bold;
+  color:#57625f
+}
+
+.nav-container {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  margin: 20px auto;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+/*Remove the scrollbar from Chrome, Safari, Edge and IE*/
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+* {
+  -ms-overflow-style: none !important;
+}

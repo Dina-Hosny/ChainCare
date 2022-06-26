@@ -1,0 +1,13 @@
+.form-container {
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.doctorlogin_pa{
+  color: #495653;
+}
+
+.doctorlogin_pa:hover{
+  color:#16c79a;
+
+}
+

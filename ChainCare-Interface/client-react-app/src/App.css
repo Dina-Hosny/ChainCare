@@ -1,0 +1,37 @@
+/* #root {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 100vh;
+} */
+
+main {
+  flex-grow: 1;
+}
+
+.main-container {
+  margin: 80px auto;
+  height: 200px;
+  text-align: center;
+}
+
+.main-text {
+  text-align: center;
+  margin: 70px auto;
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter;
+  font-size: 24px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}

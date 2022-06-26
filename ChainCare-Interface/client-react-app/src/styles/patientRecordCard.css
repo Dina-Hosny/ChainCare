@@ -1,0 +1,73 @@
+/* .record-card {
+  margin: 10px 10px 0 10px;
+  padding: 1rem;
+  width: 260px;
+  box-shadow: 0 0 28px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.record-card:hover {
+  transform: scale(1.1);
+}
+
+.view-record-content {
+  width: 17rem;
+  text-align: center;
+  margin: 2rem 1rem 2rem 1rem;
+  padding: 1.5rem;
+  width: 250px;
+  box-shadow: 0 0 28px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.view-record-name {
+  font-size: 20px;
+  font-weight: bolder;
+  text-transform: capitalize;
+} */
+
+.record-card {
+  margin: 2rem 1rem 2rem 1rem;
+  padding: 1.5rem;
+  width: 250px;
+  box-shadow: 0 0 28px 4px rgba(100, 106, 160, 0.1);
+  border-radius: 15px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  text-align: center;
+}
+
+.record-card:hover {
+  transform: scale(1.1);
+}
+
+.record-name {
+  font-size: 20px;
+  font-weight: bolder;
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+.record-date {
+  padding: 10px;
+}
+
+.record-provider {
+  padding: 10px;
+}
+
+.view-record-btn .btn {
+  background-color: rgb(112, 186, 162);
+  border: none;
+  color: white;
+  font-weight: bolder;
+}
+
+.view-record-btn .btn:hover {
+  transform: scale(1.1);
+  background-color: teal;
+}
