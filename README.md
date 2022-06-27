@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-
 
 ## For more information about system, implementation and technologies:
 
- - [Check The Documentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Check The Documentation](https://github.com/Dina-Hosny/ChainCare/blob/master/ChainCare%20Documentation.pdf)
  - [Check The Presentation](https://github.com/matiassingers/awesome-readme)
 
 
