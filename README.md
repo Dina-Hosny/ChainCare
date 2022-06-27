@@ -12,7 +12,7 @@ ChainCare is a health information system that uses smart contracts to handle med
 
 ## Features
 
-This system provides a whole medical history of the patient since the subscribing to it, also a professional history for doctors and lab doctors. The generated data are stored automatically in electronic records forms ledgers by a blockchain platform which makes it secured and well managed. the users will be able to leverage their medical data to power many applications and services.
+This system provides a whole medical history of the patient since the subscribing to it, also a professional history for doctors and lab doctors. The generated data are stored automatically in electronic records forms ledgers by a blockchain platform which makes it secured and well managed. The users will be able to leverage their medical data to power many applications and services.
 
 
 - Critical information is stored significantly in End-to-End encrypted records using BlockChain -Ethereum- that makes it difficult or impossible to change, or hack.
