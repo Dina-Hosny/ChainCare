@@ -33,6 +33,27 @@ ledgers by blockchain platform which makes it secured and well managed. the user
 - Lab staff can allow remotely receive required medical tests and upload the results.
 
 
+## Demo
+
+**System's features preview:** 
+
+https://user-images.githubusercontent.com/46838441/175837636-27f285b6-3bcb-4efc-9663-6c8576e227b0.mp4
+
+
+**System's preview:**
+
+https://user-images.githubusercontent.com/46838441/175837990-7ee475b0-9d4f-4bcc-966e-e34d9f795550.mp4
+
+**API & Database:**
+
+
+https://user-images.githubusercontent.com/46838441/175838776-642521e8-87ee-4088-882d-e26db2915eb3.mp4
+
+**Ganache workspace (for testing Data):**
+
+https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-857a-53995a39616b.mp4
+
+
 ## Tech Stack
 
 **Interface:** 
@@ -65,19 +86,10 @@ ledgers by blockchain platform which makes it secured and well managed. the user
 - Insomina (Test API)
 
 
-## Demo
+## For more information about system, implementation and technologies:
 
-**System's features preview:** 
-
-https://user-images.githubusercontent.com/46838441/175833877-7d6ceae0-69e3-49d5-8efa-efa928f6419e.mp4
-
-**System's preview:**
-
-
-
-
-https://user-images.githubusercontent.com/46838441/175834926-a2417228-8edd-42c6-9370-a90d4bf651d5.mp4
-
+ - [Check The Documentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Check The Presentation](https://github.com/matiassingers/awesome-readme)
 
 
 
