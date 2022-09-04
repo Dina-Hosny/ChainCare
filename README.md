@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-
 - PostgreSQL (Database (storing data))
 - Env vars (Storing sensitive information)
 - Gorilla/Mux (GOLANG library to serve APIs)
-- Postmen (Test API)
+- Postman (Test API)
 - Insomnia (Test API)
 
 
