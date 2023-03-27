@@ -3,9 +3,11 @@
 
 ChainCare is a health information system that uses smart contracts to handle medical procedures and stores the medical history in Block Chains.
 
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/46838441/175833736-e9c88933-a762-4fef-86f5-c5cf4f6d706d.png" width="500px" height="auto">
 
+</div>
 
 
 
